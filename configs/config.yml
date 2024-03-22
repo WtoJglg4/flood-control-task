@@ -1,0 +1,8 @@
+redis:
+  host: "localhost"
+  port: "6379"
+  password: ""
+  db: 0
+
+timeInterval: 10
+checkCallsCount: 5
